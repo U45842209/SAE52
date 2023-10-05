@@ -1,0 +1,24 @@
+# Use a Python 3.10 image based on Debian
+FROM python:3.10-bullseye
+
+# Set the working directory
+WORKDIR /app
+
+RUN apt update -y
+
+RUN apt upgrade -y
+
+RUN apt install python3-pip -y
+
+# Upgrade pip to the latest version
+#RUN pip install --upgrade pip
+
+# Install any additional dependencies from requirements.txt
+COPY requirements.txt .
+RUN pip3 install -r requirements.txt
+
+# Copy your Python script into the container
+#COPY main.py .
+
+# Start your Python script
+CMD ["python", "main.py"]
