@@ -14,4 +14,4 @@ possibilités, via une doc associée (rédigée en Markdown).
 
 # Réalisation
 
-![Alt](relative%20images/functionning.png?raw=true "Explication du fonctionnement")
+![Alt](images/functionning.png?raw=true "Explication du fonctionnement")
