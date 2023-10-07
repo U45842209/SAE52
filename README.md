@@ -1,6 +1,8 @@
 # SAE52
 
-##Objectif
+![Alt1](images/Dashboard.png?raw=true "Rendu final")
+
+## Objectif
 
 1. Produire un document de synthèse en Markdown présentant les solutions libres existantes de
 collecte, centralisation et présentation de logs. Vous donnerez leurs points-clés (features, communauté
@@ -14,4 +16,4 @@ possibilités, via une doc associée (rédigée en Markdown).
 
 # Réalisation
 
-![Alt](images/Functionning.png?raw=true "Explication du fonctionnement")
+![Alt2](images/Functionning.png?raw=true "Explication du fonctionnement")
