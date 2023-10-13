@@ -18,6 +18,10 @@ possibilités, via une doc associée (rédigée en Markdown).
 
 ![Alt2](images/Functionning.png?raw=true "Explication du fonctionnement")
 
+Docker version : Docker version 18.09.1, build 4c52b90
+
+Disclaimer : le logiciel python de log ne fonctionne que sur alpine
+
 ## Objectif 1
 
 ## Objectif 2
