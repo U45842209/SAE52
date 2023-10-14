@@ -24,6 +24,8 @@ possibilités, via une doc associée (rédigée en Markdown).
 
 ## Objectif 1
 
+![Question1.md](Question1.md)
+
 ## Objectif 2
 
 Pour la mise en oeuvre du Dockerfile, nous avons choisi d'utiliser docker-compose pour démarrer nos différents containers : Grafana, Prometheus et logger.
