@@ -53,7 +53,7 @@ La datasource donnera mais une erreur mais aucun soucis, ça fonctionne ;)
 
 Une fois ceci réglé, il faut importer le dashboard avec le fichier suivant :
 
-> ![Dashboard d'importation](Dashboard_export.json)
+![Dashboard d'importation](Dashboard_export.json)
 
 Et normalement tout fonctionne, vous pouvez voir les metrics sur le dashboard `Node1`
 
